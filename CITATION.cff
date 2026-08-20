@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "EVIDENT: Intrinsically Explainable Anomaly Detection in Dynamic Graphs"
+abstract: >-
+  EVIDENT is an ante-hoc intrinsically explainable anomaly detector for
+  dynamic graphs. Its score is computed exclusively from a sparse, dually
+  factorised evidence set selected by the model, so sufficiency is
+  guaranteed by construction rather than estimated post hoc.
+license: MIT
+repository-code: "FILL IN: https://github.com/<user>/EVIDENT"
+authors:
+  - given-names: "FILL IN"
+    family-names: "FILL IN"
+    affiliation: "LCSI Laboratory, Ecole nationale Superieure d'Informatique (ESI), Algiers, Algeria"
+keywords:
+  - dynamic graphs
+  - anomaly detection
+  - explainable AI
+  - intrinsic explainability
+  - graph neural networks
