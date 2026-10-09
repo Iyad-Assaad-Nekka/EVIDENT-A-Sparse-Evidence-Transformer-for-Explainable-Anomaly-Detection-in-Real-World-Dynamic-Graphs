@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "EVIDENT: A Sparse-Evidence Transformer for Intrinsically Explainable Anomaly Detection in Real-World Dynamic Graphs"
+abstract: >-
+  EVIDENT is an intrinsically explainable anomaly detector for dynamic graphs.
+  For each event it selects a small set of past interactions as evidence and
+  computes the anomaly score from that evidence alone, so the explanation is
+  the exact basis of the decision.
+license: MIT
+repository-code: "https://github.com/Iyad-Assaad-Nekka/EVIDENT-A-Sparse-Evidence-Transformer-for-Explainable-Anomaly-Detection-in-Real-World-Dynamic-Graphs"
+authors:
+  - given-names: "Iyad Assaad"
+    family-names: "Nekka"
+    affiliation: "LCSI Laboratory, Higher National School of Computer Science (ESI), Algiers, Algeria"
+  - given-names: "Walid Khaled"
+    family-names: "Hidouci"
+    affiliation: "LCSI Laboratory, Higher National School of Computer Science (ESI), Algiers, Algeria"
+  - given-names: "Hamida"
+    family-names: "Seba"
+    affiliation: "LIRIS, Université Claude Bernard Lyon 1, Lyon, France"
+  - given-names: "Karima"
+    family-names: "Amrouche"
+    affiliation: "LCSI Laboratory, Higher National School of Computer Science (ESI), Algiers, Algeria"
+keywords:
+  - dynamic graphs
+  - anomaly detection
+  - explainable AI
+  - intrinsic explainability
+  - transformers
+  - fraud detection
