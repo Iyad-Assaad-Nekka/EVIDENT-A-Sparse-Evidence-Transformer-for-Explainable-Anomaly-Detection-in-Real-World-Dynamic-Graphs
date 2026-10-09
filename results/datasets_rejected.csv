@@ -1,7 +1,0 @@
-dataset,fails,measurement
-Wikipedia (JODIE),R1;R3,labels a change of user state; 217 positives in 157k events
-MOOC (JODIE),R1,labels a change of user state rather than an event
-Elliptic,R2,each transaction appears in a single time step
-CICIDS2017,R3,attacks arrive in scheduled bursts; no positive in the test period
-wiki-RfA,R1,21.1% of votes are opposing ones: a ballot rather than an anomaly
-CTU-13 (scenario 43),R1;R2;R3,one host emits 100% of botnet flows; prior-botnet-history rule reaches 0.9964 AUC
