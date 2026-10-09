@@ -1,9 +1,0 @@
-dataset,variant,seed,auc,ap,p100,rationale_advantage,empty_evidence_auc
-bitcoin_otc,no_ratings,0,0.6276,0.1721,0.3800,0.0763,0.5000
-bitcoin_otc,no_ratings,1,0.6348,0.1872,0.3300,0.0903,0.5000
-bitcoin_otc,no_ratings,2,0.6357,0.1495,0.3100,0.0775,0.5000
-bitcoin_otc,no_ratings,3,0.5052,0.0908,0.2000,0.0734,0.5000
-bitcoin_alpha,no_ratings,0,0.5274,0.0685,0.1000,-0.0097,0.5000
-bitcoin_alpha,no_ratings,1,0.5912,0.0866,0.0600,0.1024,0.5000
-bitcoin_alpha,no_ratings,2,0.5860,0.0833,0.0300,0.0377,0.5000
-bitcoin_alpha,no_ratings,3,0.4877,0.0677,0.1100,-0.0088,0.5000
