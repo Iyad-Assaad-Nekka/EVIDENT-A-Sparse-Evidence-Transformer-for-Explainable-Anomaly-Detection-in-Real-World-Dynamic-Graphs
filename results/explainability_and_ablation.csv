@@ -1,0 +1,5 @@
+dataset,variant,auc,ap,p100,rationale_advantage,evidence_precision_lift,empty_evidence_auc,tokens_selected
+bitcoin_otc,EVIDENT,0.8622,0.5489,0.8650,0.1336,2.14,0.5000,4.7
+bitcoin_otc,EVIDENT_no_necessity,0.8766,0.5653,0.8738,0.0624,0.86,0.5000,4.7
+bitcoin_alpha,EVIDENT,0.7606,0.2519,0.4163,0.0762,1.98,0.5000,4.6
+bitcoin_alpha,EVIDENT_no_necessity,0.7948,0.2652,0.4300,0.0269,1.02,0.5000,4.6
